@@ -1,1 +1,4 @@
 compressed/
+uploads/
+__pycache__/
+*.pyc

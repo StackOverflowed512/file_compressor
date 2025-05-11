@@ -1,2 +1,4 @@
 Pillow>=9.0.0
 pikepdf>=8.0.0
+flask>=2.0.0
+werkzeug>=2.0.0
